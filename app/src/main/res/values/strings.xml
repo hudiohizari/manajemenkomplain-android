@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Manajemen Komplain</string>
+    <string name="manajemen_komplain">Manajemen Komplain</string>
+    <string name="hello">Hello,</string>
+    <string name="status">Status</string>
+    <string name="nama">Nama</string>
+    <string name="jawaban">Jawaban</string>
+    <string name="submit">Submit</string>
+    <string name="masukan_jawaban_disini">Masukan jawaban disini</string>
+    <string name="tidak_ada_data">Tidak ada data.</string>
+    <string name="tidak_terhubung_ke_server">Tidak terhubung ke server.</string>
+    <string name="login">Login</string>
+    <string name="login_untuk_mengelola_unit_anda">Login untuk mengelola unit Anda :)</string>
+    <string name="kata_sandi">Kata Sandi</string>
+    <string name="email">Email</string>
+    <string name="balasan">Balasan</string>
+    <string name="gambar">Gambar</string>
+    <string name="gambar_opsional">*Gambar opsional</string>
+</resources>
