@@ -100,6 +100,7 @@ public class LoginActivity extends AppCompatActivity {
             else if (response.equalsIgnoreCase("deny")){
                 Toast.makeText(this, "Password salah", Toast.LENGTH_SHORT).show();
             }
+            progressDialog.dismiss();
         }, error -> Log.e("volley", "error : " + error));
         VolleyController.getInstance().addToRequestQueue(request);
     }
